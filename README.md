@@ -101,13 +101,6 @@ Add the item to `ox_inventory/data/items.lua`:
     close = true,
     consume = 0,
     client = { export = 'm3_garages.useKey' },
-    buttons = {
-        {
-            label = 'Give key',
-            action = function(slot)
-                exports.m3_garages:giveKey(slot)
-            end
-        }
     },
 },
 ```
