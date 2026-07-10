@@ -101,7 +101,6 @@ Add the item to `ox_inventory/data/items.lua`:
     close = true,
     consume = 0,
     client = { export = 'm3_garages.useKey' },
-    },
 },
 ```
 
