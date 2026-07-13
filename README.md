@@ -25,7 +25,7 @@ Everything is server-authoritative and stored in one database table.
 
 ## Preview
 
-- TODO
+- [YouTube](https://www.youtube.com/watch?v=zdzy1L5Np3c)
 
 ---
 
